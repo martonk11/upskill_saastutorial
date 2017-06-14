@@ -36,6 +36,9 @@ gem 'jbuilder', '~> 2.5'
 #use twitter bootsrap library for from-end UI and layout
 gem 'bootstrap-sass', '3.3.7'
 
+#use font awesome for logo
+gem 'font-awesome-sass', '4.6.2'
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
