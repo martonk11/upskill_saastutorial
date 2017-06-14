@@ -39,6 +39,16 @@ h1, h2, h3 {
   }
 }
 
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: white;
+}
+.navbar-default .navbar-toggle{
+  border: 2px solid white;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus{
+  background-color:#c21500;
+}
 .homecallout{
   color: white;
   margin-top: -20px;
@@ -57,3 +67,4 @@ h1, h2, h3 {
   font-family: 'Slabo 27px', serif;
   font-weight: 800;
 }
+
