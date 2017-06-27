@@ -39,6 +39,9 @@ gem 'bootstrap-sass', '3.3.7'
 #use font awesome for logo
 gem 'font-awesome-sass', '4.6.2'
 
+#use for better database display
+gem 'hirb', '0.7.3'
+
 gem 'jquery-rails'
 
 group :development, :test do
